@@ -1,6 +1,7 @@
 <h1 align="center">Hi I'm Eric Orr</h1>
 <h3 align="center">A CS student at OSU Cascades</h3>
 <h4 align="center">All of my code assumes air resistances is negligible</h4>
+
 How to reach me
 - **eric.orr.dev@gmail.com**
 - Contact form on <a href="https://ericorrdev.github.io/"> https://ericorrdev.github.io/ </a>
